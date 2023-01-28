@@ -1,7 +1,7 @@
 # Business-Webpage
 
 
-Link to project: 
+Link to project: https://brittanytamra.github.io/Business-Webpage/
 
 TECH USED: HTML, CSS
 
